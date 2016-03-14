@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/epamLab.iml" filepath="$PROJECT_DIR$/epamLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvnTest/mvnTest.iml" filepath="$PROJECT_DIR$/mvnTest/mvnTest.iml" />
     </modules>
   </component>
 </project>
