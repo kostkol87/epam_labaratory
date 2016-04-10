@@ -8,7 +8,7 @@ import java.util.stream.Stream;
 public class BookExamples {
 
     static class Book {
-
+//פûגפûגפû
         enum Genre {
             FICTION,
             HISTORICAL,

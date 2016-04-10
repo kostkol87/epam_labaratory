@@ -2,28 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b989543-9c0e-43f3-bbe2-a1a16b4e16b7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mvnTest/src/main/java/Spring/SpringHello.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mvnTest/src/main/java/java8/lesson05_04_2016/BookExamples.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mvnTest/src/main/java/java8/lesson05_04_2016/Example01.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mvnTest/src/main/java/java8/lesson29_03_2016/Example01.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mvnTest/src/main/java/java8/lesson29_03_2016/Example02.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mvnTest/src/main/java/java8/lesson29_03_2016/Task.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mvnTest/src/main/java/java8/lesson31_03_2016/Example01.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mvnTest/src/main/java/java8/my/test/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mvnTest/src/main/java/java8/my/test/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mvnTest/src/main/webTests/angular/step1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mvnTest/src/main/webTests/javascript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mvnTest/src/main/webTests/js_test.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mvnTest/src/__init__.py" afterPath="$PROJECT_DIR$/mvnTest/src/main/java/java8/my/test/resp.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mvnTest/src/main/__init__.py" afterPath="$PROJECT_DIR$/mvnTest/src/main/webTests/angular/controllers/test1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/epamLab.iml" afterPath="$PROJECT_DIR$/epamLab.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mvnTest/src/main/java/java8/lesson14_03_2016/main.java" afterPath="$PROJECT_DIR$/mvnTest/src/main/java/java8/lesson14_03_2016/main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mvnTest/src/main/python/test.py" afterPath="$PROJECT_DIR$/mvnTest/src/main/python/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mvnTest/src/main/java/java8/lesson05_04_2016/BookExamples.java" afterPath="$PROJECT_DIR$/mvnTest/src/main/java/java8/lesson05_04_2016/BookExamples.java" />
     </list>
     <ignored path="epamLab.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -50,8 +30,8 @@
       <file leaf-file-name="BookExamples.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mvnTest/src/main/java/java8/lesson05_04_2016/BookExamples.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            <state relative-caret-position="352">
+              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,6 +55,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -1194,12 +1179,20 @@
       <workItem from="1459800276266" duration="6866000" />
       <workItem from="1459941912174" duration="2328000" />
       <workItem from="1460039619460" duration="937000" />
-      <workItem from="1460319823452" duration="31000" />
+      <workItem from="1460319823452" duration="74000" />
     </task>
+    <task id="LOCAL-00001" summary="еее">
+      <created>1460319868293</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1460319868293</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48203000" />
+    <option name="totallyTimeSpent" value="48246000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -1207,6 +1200,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3227991" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1231,7 +1225,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3227991" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2268623" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -1248,6 +1241,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="еее" />
+    <option name="LAST_COMMIT_MESSAGE" value="еее" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1629,13 +1626,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mvnTest/src/main/java/java8/lesson05_04_2016/BookExamples.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        <state relative-caret-position="352">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
