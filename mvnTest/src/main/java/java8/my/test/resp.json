@@ -1,0 +1,103 @@
+{
+  "status": "OK",
+  "duration": 2742,
+  "payload": [
+    {
+      "eMail": "ololo1234@ololo1234.ru",
+      "exams": [
+        {
+          "id": 15,
+          "userName": "ololo",
+          "userSurname": "ololo",
+          "testName": "jsr 366",
+          "examDescription": "JSR 366",
+          "date": "2016-03-09",
+          "status": "PASSED"
+        }
+      ]
+    },
+    {
+      "eMail": "AndrewJestkov@mail.ru",
+      "exams": [
+        {
+          "id": 13,
+          "userName": "Andrew",
+          "userSurname": "Jestkov",
+          "testName": "jms test",
+          "examDescription": "Java Message Service",
+          "date": "2016-03-24",
+          "status": "PASSED"
+        },
+        {
+          "id": 18,
+          "userName": "Andrew",
+          "userSurname": "Jestkov",
+          "testName": "jsr 366",
+          "examDescription": "JSR 366",
+          "date": "2016-03-24",
+          "status": "UNCHECKED"
+        }
+      ]
+    },
+    {
+      "eMail": "email@mail.ru",
+      "exams": [
+        {
+          "id": 12,
+          "userName": "Nikolay",
+          "userSurname": "Petrov",
+          "testName": "jms test",
+          "examDescription": "Java Message Service",
+          "date": "2016-03-24",
+          "status": "PASSED"
+        },
+        {
+          "id": 19,
+          "userName": "Nikolay",
+          "userSurname": "Petrov",
+          "testName": "jsr 366",
+          "examDescription": "JSR 366",
+          "date": "2016-03-24",
+          "status": "UNCHECKED"
+        }
+      ]
+    },
+    {
+      "eMail": "boboshko@mail.ru",
+      "exams": [
+        {
+          "id": 14,
+          "userName": "Vlad",
+          "userSurname": "Boboshko",
+          "testName": "jms test",
+          "examDescription": "Java Message Service",
+          "date": "2016-03-24",
+          "status": "PASSED"
+        },
+        {
+          "id": 17,
+          "userName": "Vlad",
+          "userSurname": "Boboshko",
+          "testName": "jsr 366",
+          "examDescription": "JSR 366",
+          "date": "2016-03-24",
+          "status": "NOT_PASSED"
+        }
+      ]
+    },
+    {
+      "eMail": "studentemail@epam.com",
+      "exams": [
+        {
+          "id": 16,
+          "userName": "Studentname",
+          "userSurname": "Studentsurname",
+          "testName": "jsr 366",
+          "examDescription": "JSR 366",
+          "date": "2016-03-22",
+          "status": "PASSED"
+        }
+      ]
+    }
+  ]
+}
